@@ -1,2 +1,2 @@
-# serpapi-mcp-server
+# SerpMCP
 Yet another SerpApi MCP Server
